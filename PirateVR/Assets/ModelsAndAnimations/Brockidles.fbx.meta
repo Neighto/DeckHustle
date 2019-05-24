@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 592db050938eeef4e8d80eb7a1e8c0c0
+timeCreated: 1515701927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brockrig_Brock_SH_HeadJ
+    100004: brockrig_Brock_SH_HeadTipJ
+    100006: brockrig_Brock_SH_JawJ
+    100008: brockrig_Brock_SH_JawTipJ
+    100010: brockrig_Brock_SH_lAnkleJ
+    100012: brockrig_Brock_SH_lBallJ
+    100014: brockrig_Brock_SH_lClavicleJ
+    100016: brockrig_Brock_SH_lElbowJ
+    100018: brockrig_Brock_SH_lEyeJ
+    100020: brockrig_Brock_SH_lFinger1J1
+    100022: brockrig_Brock_SH_lFinger1J2
+    100024: brockrig_Brock_SH_lFinger1J3
+    100026: brockrig_Brock_SH_lFinger1JTip
+    100028: brockrig_Brock_SH_lForearmJ
+    100030: brockrig_Brock_SH_lHipJ
+    100032: brockrig_Brock_SH_lKneeJ
+    100034: brockrig_Brock_SH_lPalmJ
+    100036: brockrig_Brock_SH_lShoulderJ
+    100038: brockrig_Brock_SH_lThumbJ1
+    100040: brockrig_Brock_SH_lThumbJ2
+    100042: brockrig_Brock_SH_lThumbJ3
+    100044: brockrig_Brock_SH_lThumbJTip
+    100046: brockrig_Brock_SH_lToeJ
+    100048: brockrig_Brock_SH_lWristJ
+    100050: brockrig_Brock_SH_Neck01J
+    100052: brockrig_Brock_SH_rAnkleJ
+    100054: brockrig_Brock_SH_rBallJ
+    100056: brockrig_Brock_SH_rClavicleJ
+    100058: brockrig_Brock_SH_rElbowJ
+    100060: brockrig_Brock_SH_rEyeJ
+    100062: brockrig_Brock_SH_rFinger1J1
+    100064: brockrig_Brock_SH_rFinger1J2
+    100066: brockrig_Brock_SH_rFinger1J3
+    100068: brockrig_Brock_SH_rFinger1JTip
+    100070: brockrig_Brock_SH_rForearmJ
+    100072: brockrig_Brock_SH_rHipJ
+    100074: brockrig_Brock_SH_rKneeJ
+    100076: brockrig_Brock_SH_ROOTJ
+    100078: brockrig_Brock_SH_rPalmJ
+    100080: brockrig_Brock_SH_rShoulderJ
+    100082: brockrig_Brock_SH_rThumbJ1
+    100084: brockrig_Brock_SH_rThumbJ2
+    100086: brockrig_Brock_SH_rThumbJ3
+    100088: brockrig_Brock_SH_rThumbJTip
+    100090: brockrig_Brock_SH_rToeJ
+    100092: brockrig_Brock_SH_rWristJ
+    100094: brockrig_Brock_SH_Spine01J
+    100096: brockrig_Brock_SH_SpineTopJ
+    400000: //RootNode
+    400002: brockrig_Brock_SH_HeadJ
+    400004: brockrig_Brock_SH_HeadTipJ
+    400006: brockrig_Brock_SH_JawJ
+    400008: brockrig_Brock_SH_JawTipJ
+    400010: brockrig_Brock_SH_lAnkleJ
+    400012: brockrig_Brock_SH_lBallJ
+    400014: brockrig_Brock_SH_lClavicleJ
+    400016: brockrig_Brock_SH_lElbowJ
+    400018: brockrig_Brock_SH_lEyeJ
+    400020: brockrig_Brock_SH_lFinger1J1
+    400022: brockrig_Brock_SH_lFinger1J2
+    400024: brockrig_Brock_SH_lFinger1J3
+    400026: brockrig_Brock_SH_lFinger1JTip
+    400028: brockrig_Brock_SH_lForearmJ
+    400030: brockrig_Brock_SH_lHipJ
+    400032: brockrig_Brock_SH_lKneeJ
+    400034: brockrig_Brock_SH_lPalmJ
+    400036: brockrig_Brock_SH_lShoulderJ
+    400038: brockrig_Brock_SH_lThumbJ1
+    400040: brockrig_Brock_SH_lThumbJ2
+    400042: brockrig_Brock_SH_lThumbJ3
+    400044: brockrig_Brock_SH_lThumbJTip
+    400046: brockrig_Brock_SH_lToeJ
+    400048: brockrig_Brock_SH_lWristJ
+    400050: brockrig_Brock_SH_Neck01J
+    400052: brockrig_Brock_SH_rAnkleJ
+    400054: brockrig_Brock_SH_rBallJ
+    400056: brockrig_Brock_SH_rClavicleJ
+    400058: brockrig_Brock_SH_rElbowJ
+    400060: brockrig_Brock_SH_rEyeJ
+    400062: brockrig_Brock_SH_rFinger1J1
+    400064: brockrig_Brock_SH_rFinger1J2
+    400066: brockrig_Brock_SH_rFinger1J3
+    400068: brockrig_Brock_SH_rFinger1JTip
+    400070: brockrig_Brock_SH_rForearmJ
+    400072: brockrig_Brock_SH_rHipJ
+    400074: brockrig_Brock_SH_rKneeJ
+    400076: brockrig_Brock_SH_ROOTJ
+    400078: brockrig_Brock_SH_rPalmJ
+    400080: brockrig_Brock_SH_rShoulderJ
+    400082: brockrig_Brock_SH_rThumbJ1
+    400084: brockrig_Brock_SH_rThumbJ2
+    400086: brockrig_Brock_SH_rThumbJ3
+    400088: brockrig_Brock_SH_rThumbJTip
+    400090: brockrig_Brock_SH_rToeJ
+    400092: brockrig_Brock_SH_rWristJ
+    400094: brockrig_Brock_SH_Spine01J
+    400096: brockrig_Brock_SH_SpineTopJ
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

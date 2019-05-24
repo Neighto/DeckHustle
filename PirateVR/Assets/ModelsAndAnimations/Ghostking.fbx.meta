@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 5e036a31d1781d34fa13edfb1564479d
+timeCreated: 1515954608
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ghostpiraterig_Ghost_SH_HeadJ
+    100004: ghostpiraterig_Ghost_SH_HeadTipJ
+    100006: ghostpiraterig_Ghost_SH_JawJ
+    100008: ghostpiraterig_Ghost_SH_JawTipJ
+    100010: ghostpiraterig_Ghost_SH_lAnkleJ
+    100012: ghostpiraterig_Ghost_SH_lBallJ
+    100014: ghostpiraterig_Ghost_SH_lClavicleJ
+    100016: ghostpiraterig_Ghost_SH_lElbowJ
+    100018: ghostpiraterig_Ghost_SH_lEyeJ
+    100020: ghostpiraterig_Ghost_SH_lFinger1J1
+    100022: ghostpiraterig_Ghost_SH_lFinger1J2
+    100024: ghostpiraterig_Ghost_SH_lFinger1J3
+    100026: ghostpiraterig_Ghost_SH_lFinger1JTip
+    100028: ghostpiraterig_Ghost_SH_lForearmJ
+    100030: ghostpiraterig_Ghost_SH_lHipJ
+    100032: ghostpiraterig_Ghost_SH_lKneeJ
+    100034: ghostpiraterig_Ghost_SH_lPalmJ
+    100036: ghostpiraterig_Ghost_SH_lShoulderJ
+    100038: ghostpiraterig_Ghost_SH_lThumbJ1
+    100040: ghostpiraterig_Ghost_SH_lThumbJ2
+    100042: ghostpiraterig_Ghost_SH_lThumbJ3
+    100044: ghostpiraterig_Ghost_SH_lThumbJTip
+    100046: ghostpiraterig_Ghost_SH_lToeJ
+    100048: ghostpiraterig_Ghost_SH_lWristJ
+    100050: ghostpiraterig_Ghost_SH_Neck01J
+    100052: ghostpiraterig_Ghost_SH_rAnkleJ
+    100054: ghostpiraterig_Ghost_SH_rBallJ
+    100056: ghostpiraterig_Ghost_SH_rClavicleJ
+    100058: ghostpiraterig_Ghost_SH_rElbowJ
+    100060: ghostpiraterig_Ghost_SH_rEyeJ
+    100062: ghostpiraterig_Ghost_SH_rFinger1J1
+    100064: ghostpiraterig_Ghost_SH_rFinger1J2
+    100066: ghostpiraterig_Ghost_SH_rFinger1J3
+    100068: ghostpiraterig_Ghost_SH_rFinger1JTip
+    100070: ghostpiraterig_Ghost_SH_rForearmJ
+    100072: ghostpiraterig_Ghost_SH_rHipJ
+    100074: ghostpiraterig_Ghost_SH_rKneeJ
+    100076: ghostpiraterig_Ghost_SH_ROOTJ
+    100078: ghostpiraterig_Ghost_SH_rPalmJ
+    100080: ghostpiraterig_Ghost_SH_rShoulderJ
+    100082: ghostpiraterig_Ghost_SH_rThumbJ1
+    100084: ghostpiraterig_Ghost_SH_rThumbJ2
+    100086: ghostpiraterig_Ghost_SH_rThumbJ3
+    100088: ghostpiraterig_Ghost_SH_rThumbJTip
+    100090: ghostpiraterig_Ghost_SH_rToeJ
+    100092: ghostpiraterig_Ghost_SH_rWristJ
+    100094: ghostpiraterig_Ghost_SH_Spine01J
+    100096: ghostpiraterig_Ghost_SH_SpineTopJ
+    100098: ghostpiraterig_NewLayer0
+    400000: //RootNode
+    400002: ghostpiraterig_Ghost_SH_HeadJ
+    400004: ghostpiraterig_Ghost_SH_HeadTipJ
+    400006: ghostpiraterig_Ghost_SH_JawJ
+    400008: ghostpiraterig_Ghost_SH_JawTipJ
+    400010: ghostpiraterig_Ghost_SH_lAnkleJ
+    400012: ghostpiraterig_Ghost_SH_lBallJ
+    400014: ghostpiraterig_Ghost_SH_lClavicleJ
+    400016: ghostpiraterig_Ghost_SH_lElbowJ
+    400018: ghostpiraterig_Ghost_SH_lEyeJ
+    400020: ghostpiraterig_Ghost_SH_lFinger1J1
+    400022: ghostpiraterig_Ghost_SH_lFinger1J2
+    400024: ghostpiraterig_Ghost_SH_lFinger1J3
+    400026: ghostpiraterig_Ghost_SH_lFinger1JTip
+    400028: ghostpiraterig_Ghost_SH_lForearmJ
+    400030: ghostpiraterig_Ghost_SH_lHipJ
+    400032: ghostpiraterig_Ghost_SH_lKneeJ
+    400034: ghostpiraterig_Ghost_SH_lPalmJ
+    400036: ghostpiraterig_Ghost_SH_lShoulderJ
+    400038: ghostpiraterig_Ghost_SH_lThumbJ1
+    400040: ghostpiraterig_Ghost_SH_lThumbJ2
+    400042: ghostpiraterig_Ghost_SH_lThumbJ3
+    400044: ghostpiraterig_Ghost_SH_lThumbJTip
+    400046: ghostpiraterig_Ghost_SH_lToeJ
+    400048: ghostpiraterig_Ghost_SH_lWristJ
+    400050: ghostpiraterig_Ghost_SH_Neck01J
+    400052: ghostpiraterig_Ghost_SH_rAnkleJ
+    400054: ghostpiraterig_Ghost_SH_rBallJ
+    400056: ghostpiraterig_Ghost_SH_rClavicleJ
+    400058: ghostpiraterig_Ghost_SH_rElbowJ
+    400060: ghostpiraterig_Ghost_SH_rEyeJ
+    400062: ghostpiraterig_Ghost_SH_rFinger1J1
+    400064: ghostpiraterig_Ghost_SH_rFinger1J2
+    400066: ghostpiraterig_Ghost_SH_rFinger1J3
+    400068: ghostpiraterig_Ghost_SH_rFinger1JTip
+    400070: ghostpiraterig_Ghost_SH_rForearmJ
+    400072: ghostpiraterig_Ghost_SH_rHipJ
+    400074: ghostpiraterig_Ghost_SH_rKneeJ
+    400076: ghostpiraterig_Ghost_SH_ROOTJ
+    400078: ghostpiraterig_Ghost_SH_rPalmJ
+    400080: ghostpiraterig_Ghost_SH_rShoulderJ
+    400082: ghostpiraterig_Ghost_SH_rThumbJ1
+    400084: ghostpiraterig_Ghost_SH_rThumbJ2
+    400086: ghostpiraterig_Ghost_SH_rThumbJ3
+    400088: ghostpiraterig_Ghost_SH_rThumbJTip
+    400090: ghostpiraterig_Ghost_SH_rToeJ
+    400092: ghostpiraterig_Ghost_SH_rWristJ
+    400094: ghostpiraterig_Ghost_SH_Spine01J
+    400096: ghostpiraterig_Ghost_SH_SpineTopJ
+    400098: ghostpiraterig_NewLayer0
+    2100000: ghostpiraterig_lambert2
+    4300000: ghostpiraterig_NewLayer0
+    9500000: //RootNode
+    13700000: ghostpiraterig_NewLayer0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
