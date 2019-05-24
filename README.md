@@ -14,10 +14,10 @@ Simply use WASD or arrow keys to move your pirate across the ship's deck. Win by
 > was made in the Unity Engine.
 
 # Pictures
-<img src="Images/DH_1.PNG" width="900px" height="500px">
-<img src="Images/DH_2.PNG" width="900px" height="500px">
-<img src="Images/DH_3.PNG" width="900px" height="500px">
-<img src="Images/DH_4.PNG" width="900px" height="500px">
+<img src="Images/DH_1.jpg" width="900px" height="500px">
+<img src="Images/DH_2.jpg" width="900px" height="500px">
+<img src="Images/DH_3.jpg" width="900px" height="500px">
+<img src="Images/DH_4.jpg" width="900px" height="500px">
 
 # Credits
 - Nathan Ladd - Programming
