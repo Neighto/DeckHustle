@@ -1,6 +1,6 @@
 # DeckHustle
 
-### Man the cannon and fire at the ghost ship! Be wary however, the ghost captain won't go down easily.
+### Man the cannon and fire at the ghost ship! Be wary however, the ghost captain won't go down easily. This was my first completed game made in Unity (January 2018).
 
 <img src="Images/Cover.png" width="400px" height="400px">
 
